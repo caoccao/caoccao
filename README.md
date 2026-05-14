@@ -1,7 +1,8 @@
 [❤️ Sponsor Sam Cao](https://github.com/sponsors/caoccao)
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=caoccao)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caoccao&layout=compact&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caoccao&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caoccao&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caoccao&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caoccao&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caoccao&theme=blueberry&utcOffset=8)
 
 - https://blog.caoccao.com/
 - https://caoccao.blogspot.com/
